@@ -1,0 +1,15 @@
+C:\Users\RidleyOffice\Desktop\Nova pasta\ExercicioVetorNullable\ExercicioVetorNullable\bin\Debug\net6.0\ExercicioVetorNullable.exe
+C:\Users\RidleyOffice\Desktop\Nova pasta\ExercicioVetorNullable\ExercicioVetorNullable\bin\Debug\net6.0\ExercicioVetorNullable.deps.json
+C:\Users\RidleyOffice\Desktop\Nova pasta\ExercicioVetorNullable\ExercicioVetorNullable\bin\Debug\net6.0\ExercicioVetorNullable.runtimeconfig.json
+C:\Users\RidleyOffice\Desktop\Nova pasta\ExercicioVetorNullable\ExercicioVetorNullable\bin\Debug\net6.0\ExercicioVetorNullable.dll
+C:\Users\RidleyOffice\Desktop\Nova pasta\ExercicioVetorNullable\ExercicioVetorNullable\bin\Debug\net6.0\ExercicioVetorNullable.pdb
+C:\Users\RidleyOffice\Desktop\Nova pasta\ExercicioVetorNullable\ExercicioVetorNullable\obj\Debug\net6.0\ExercicioVetorNullable.csproj.AssemblyReference.cache
+C:\Users\RidleyOffice\Desktop\Nova pasta\ExercicioVetorNullable\ExercicioVetorNullable\obj\Debug\net6.0\ExercicioVetorNullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RidleyOffice\Desktop\Nova pasta\ExercicioVetorNullable\ExercicioVetorNullable\obj\Debug\net6.0\ExercicioVetorNullable.AssemblyInfoInputs.cache
+C:\Users\RidleyOffice\Desktop\Nova pasta\ExercicioVetorNullable\ExercicioVetorNullable\obj\Debug\net6.0\ExercicioVetorNullable.AssemblyInfo.cs
+C:\Users\RidleyOffice\Desktop\Nova pasta\ExercicioVetorNullable\ExercicioVetorNullable\obj\Debug\net6.0\ExercicioVetorNullable.csproj.CoreCompileInputs.cache
+C:\Users\RidleyOffice\Desktop\Nova pasta\ExercicioVetorNullable\ExercicioVetorNullable\obj\Debug\net6.0\ExercicioVetorNullable.dll
+C:\Users\RidleyOffice\Desktop\Nova pasta\ExercicioVetorNullable\ExercicioVetorNullable\obj\Debug\net6.0\refint\ExercicioVetorNullable.dll
+C:\Users\RidleyOffice\Desktop\Nova pasta\ExercicioVetorNullable\ExercicioVetorNullable\obj\Debug\net6.0\ExercicioVetorNullable.pdb
+C:\Users\RidleyOffice\Desktop\Nova pasta\ExercicioVetorNullable\ExercicioVetorNullable\obj\Debug\net6.0\ExercicioVetorNullable.genruntimeconfig.cache
+C:\Users\RidleyOffice\Desktop\Nova pasta\ExercicioVetorNullable\ExercicioVetorNullable\obj\Debug\net6.0\ref\ExercicioVetorNullable.dll
